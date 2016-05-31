@@ -14,9 +14,9 @@ Example
 ----
 __basic__<br>
 ![1](img/1.PNG)<br>
+![2](img/2.PNG)<br>
 <br>
 __token matching__<br>
-![2](img/2.PNG)<br>
 ![3](img/3.PNG)<br>
 ![4](img/4.PNG)<br>
 <br>
